@@ -29,4 +29,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliver.dietsche)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliverdietsche)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-dietsche-b5b5a0190)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?logo=pinterest&logoColor=white&style=for-the-badge)](https://www.pinterest.ch/oliverdietsche)
